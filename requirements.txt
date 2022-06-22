@@ -13,7 +13,7 @@ kiwisolver==1.2.0
 mahotas==1.4.9
 matplotlib==3.2.1
 networkx==2.4
-numpy==1.18.5
+numpy==1.22.0
 opencv-contrib-python==4.1.0.25
 Pillow==7.1.2
 pydantic==1.5.1
